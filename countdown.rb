@@ -1,6 +1,5 @@
 def countdown_with_sleep(int)
   while numbers > 0 
-  sleep 5
   puts "#{numbers} SECOND(S)!"
   numbers -= 1 
   end
