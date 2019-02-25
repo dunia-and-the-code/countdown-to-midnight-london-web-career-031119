@@ -12,7 +12,6 @@ def countdown(numbers)
   puts "#{numbers} SECOND(S)!"
   numbers -= 1 
   end
-  break
 end
 
 puts "HAPPY NEW YEAR!"
