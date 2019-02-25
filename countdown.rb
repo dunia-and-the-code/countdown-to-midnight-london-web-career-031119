@@ -1,4 +1,4 @@
-def countdown_with_sleep(int)
+def countdown_with_sleep(numbers)
   while numbers > 0 
   puts "#{numbers} SECOND(S)!" 
   sleep 5
